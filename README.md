@@ -1,0 +1,1 @@
+EEG brain signals processing with Data Science. The data treatment pipeline prepares the data and predicts wether the tested subject is thinking about hand movement or feet movement through a Machine Learning model.
